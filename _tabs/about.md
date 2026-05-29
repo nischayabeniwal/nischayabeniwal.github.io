@@ -1,11 +1,10 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
-Hi, I'm **Nischaya Beniwal**. <br>
-A security researcher focused on OffSec, Red Teaming, and practical attack methodology.
+I'm a security researcher focused on OffSec, Red Teaming, and practical attack methodology.
 
 I enjoy understanding how systems work, identifying weaknesses in them, and exploring how real-world attack paths are built. 
 Most of my work revolves around hands-on labs, CTF environments, and building practical security knowledge through continuous experimentation.
@@ -31,4 +30,4 @@ Most of my work revolves around hands-on labs, CTF environments, and building pr
 
 ---
 
-> **Build. Break. Learn. Repeat.**
+> ### **Build. Break. Learn. Repeat.**
