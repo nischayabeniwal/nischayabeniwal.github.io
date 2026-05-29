@@ -1,14 +1,13 @@
 --- 
 layout: post
-title: CWL Web Red Team Analyst [WEB-RTA] 
-date: 2026-05-29 
+title: CWL Web Red Team Analyst
+date: 2026-05-29 23:00 +0530
 categories: [Writeups] 
-tags: [web-security, web-rta, burpsuite, jwt, oauth, red-teaming] 
+tags: [web-security] 
 ---
 
-<p>
-  <img src="/assets/img/posts/web-rta/web-rta-cover.png">
-</p>
+![Banner](https://raw.githubusercontent.com/nischayabeniwal/nischayabeniwal.github.io/main/assets/img/posts/web-rta/web-rta-cover.png)
+
 # Introduction
 
 One random day, while scrolling through LinkedIn between classes, I came across a post about the **WEB-RTA certification** from CyberWarFare Labs.
@@ -37,9 +36,7 @@ The content itself wasn’t extremely advanced, but it introduced something that
 
 > ### web exploitation is rarely about a single vulnerability.
 
-<p>
-  <img src="/assets/img/posts/web-rta/web-rta-arch.png">
-</p>
+![WEB-RTA Certificate](https://raw.githubusercontent.com/nischayabeniwal/nischayabeniwal.github.io/main/assets/img/posts/web-rta/web-rta-arch.png)
 
 ---
 
@@ -74,9 +71,7 @@ So after classes ended, instead of going home, I stayed back and kept solving.
 
 The more I explored, the more the lab started feeling less like a certification and more like understanding how flawed application logic creates real attack paths.
 
-<p>
-  <img src="/assets/img/posts/web-rta/web-rta-process.png">
-</p>
+![Process](https://raw.githubusercontent.com/nischayabeniwal/nischayabeniwal.github.io/main/assets/img/posts/web-rta/web-rta-process.png)
 
 ---
 
@@ -88,9 +83,7 @@ And honestly?
 
 I walked home feeling like I had just unlocked a new level in cybersecurity.
 
-<p>
-  <img src="/assets/img/posts/web-rta/web-rta-congrats.png">
-</p>
+![Congrats_Page](https://raw.githubusercontent.com/nischayabeniwal/nischayabeniwal.github.io/main/assets/img/posts/web-rta/web-rta-congrats.png)
 
 ---
 
@@ -157,9 +150,7 @@ And looking back, the best part wasn’t even the certificate.
 
 It was that feeling of staying back after college, getting completely absorbed in the lab environment, solving the final chain, and going home absolutely flying.
 
-<p>
-  <img src="/assets/img/posts/web-rta/web-rta-cert.png">
-</p>
+![WEB-RTA Certificate](https://raw.githubusercontent.com/nischayabeniwal/nischayabeniwal.github.io/main/assets/img/posts/web-rta/web-rta-cert.png)
 
 ---
 
