@@ -1,7 +1,6 @@
---- 
-layout: post
+---
 title: CWL Web Red Team Analyst
-date: 2026-05-29 23:00 +0530
+date: 2026-05-29
 categories: [Writeups] 
 tags: [web-security] 
 ---
