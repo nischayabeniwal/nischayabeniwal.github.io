@@ -1,7 +1,7 @@
 ---
 title: CWL Web Red Team Analyst
 date: 2026-05-29
-categories: [Writeups] 
+categories: [Certs] 
 tags: [web-security] 
 ---
 
@@ -9,15 +9,20 @@ tags: [web-security]
 
 # Introduction
 
+| Category      | Details                           |
+| ------------- | --------------------------------- |
+| Certification | WEB-RTA                           |
+| Platform      | CyberWarFare Labs                 |
+| Focus Areas   | Web Exploitation, Attack Chaining |
+| Difficulty    | Beginner / Intermediate           |
+| Topics        | JWT, OAuth, SSRF, XXE, SQLi       |
+
+
 One random day, while scrolling through LinkedIn between classes, I came across a post about the **WEB-RTA certification** from CyberWarFare Labs.
 
 The first thing that caught my attention wasn’t the syllabus.
 
-It was the price.<br>
-`$9`<br>
-As a beginner getting deeper into offensive security, I thought:
-
-> ### honestly, for a first certification… that’s not bad.
+At only `$9`, the certification immediately stood out as an affordable way to explore practical web exploitation in a more hands-on environment.
 
 So I bought it.
 
@@ -70,15 +75,21 @@ So after classes ended, instead of going home, I stayed back and kept solving.
 
 The more I explored, the more the lab started feeling less like a certification and more like understanding how flawed application logic creates real attack paths.
 
+#### Attack Plan
+
+```
+Recon → JWT Abuse → XXE → Internal Discovery
+                    ↓
+ OAuth Abuse → PrivEsc → Attack Chaining
+ ```
+
 ![Process](https://raw.githubusercontent.com/nischayabeniwal/nischayabeniwal.github.io/main/assets/img/posts/web-rta/web-rta-process.png)
 
 ---
 
-One hour later…
+About an hour later, the certification was complete.
 
-the certification was done.
-
-And honestly?
+More importantly, it felt like the first time web exploitation stopped being “individual vulnerabilities” and started feeling like interconnected attack paths.
 
 I walked home feeling like I had just unlocked a new level in cybersecurity.
 
