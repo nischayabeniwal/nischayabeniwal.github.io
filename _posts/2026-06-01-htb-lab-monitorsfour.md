@@ -1,5 +1,5 @@
 ---
-title: HackTheBox - MonitorsFour
+title: HTB MonitorsFour Walkthrough
 date: 2026-06-01
 categories: [HackTheBox] 
 tags: [hackthebox, cacti, docker, idor, windows] 

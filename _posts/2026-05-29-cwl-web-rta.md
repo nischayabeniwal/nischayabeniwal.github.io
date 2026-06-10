@@ -1,5 +1,5 @@
 ---
-title: CWL Web Red Team Analyst
+title: CWL Web-RTA Review
 date: 2026-05-29
 categories: [Certs] 
 tags: [web-security] 
